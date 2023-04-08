@@ -1,0 +1,10 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+.bg-sari {
+    background-color: #FFC017;
+}
+
+.bg-borderbottom {
+    border-bottom: 1px solid #414141;
+}
